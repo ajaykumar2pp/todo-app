@@ -27,18 +27,19 @@ This is a Todo-App Project which is built using Reactjs ,CSS  , Bootstrap. It is
 ## 💻 Screens
 
 ###  Create Task 
+![createTask](https://user-images.githubusercontent.com/102378038/202739784-e8fc47ca-cddd-4a4c-ab76-a96f87f23f05.png)
 
 
 ###  Update Task 
+![updateTask](https://user-images.githubusercontent.com/102378038/202739813-0cf44615-3a6c-438e-9fd9-2aa911bc855c.png)
 
 
 
 ###  Delete Task 
+![deleteTask](https://user-images.githubusercontent.com/102378038/202739824-2f3be0d1-9c50-419c-a2c3-70f3f92cd36a.png)
 
 
-# Getting Started with Create React App
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts
 
